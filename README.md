@@ -24,7 +24,6 @@ These scripts were used for surface image construction, PSF measurement, deconvo
 
 - MATLAB R2022b or later
 - Image Processing Toolbox
-- MATLAB Statistics and Machine Learning Toolbox (for classification)
-- Weka (optional, for retraining the segmentation model)
+- Weka
 
 ---
