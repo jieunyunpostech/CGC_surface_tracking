@@ -1,5 +1,3 @@
-# CGC_surface_tracking
-
 # OLSFM Image Processing Code
 
 This repository provides the image processing scripts used in the study:
