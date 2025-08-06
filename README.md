@@ -12,7 +12,6 @@ These scripts were used for surface image construction, PSF measurement, deconvo
 
 | File Name                           | Description |
 |------------------------------------|-------------|
-| `OLSFM_image_construction.m`       | Constructs en-face surface images from images using surface tracking data |
 | `OLSFM_psf_measurement_FWHM.m`     | Measures the point spread function (PSF) and calculates FWHM from fluorescent microsphere image  |
 | `OLSFM_deconvolution.m`            | Performs blind and regular deconvolution on CGC images |
 | `OLSFM_cell_count.m`               | Performs automated CGC segmentation using Weka-classified data and morphological postprocessing |
